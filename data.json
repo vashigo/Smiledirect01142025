@@ -1,0 +1,247 @@
+{
+  "accesories": [
+    {
+      "name": "Control PS5 Fortnite",
+      "description": "Edición especial con diseño inspirado en Fortnite."
+    },
+    {
+      "name": "Control Chroma PS5 - Indigo",
+      "description": "Diseño elegante en tono índigo con retroiluminación Chroma."
+    },
+    {
+      "name": "Control Chroma PS5 - Perla",
+      "description": "Versión Perla con brillo especial."
+    },
+    {
+      "name": "Wii 2 HDMI Converter",
+      "description": "Conversor de señal Wii a HDMI."
+    },
+    {
+      "name": "Roku Express 4K+",
+      "description": "Streaming en 4K Ultra HD con alta velocidad."
+    },
+    {
+      "name": "PSP Carnival RED",
+      "description": "Edición de PSP en color rojo (Carnival)."
+    },
+    {
+      "name": "PS3 Combo Playstation Move + Biohazard 5",
+      "description": "Pack especial con control Move y juego Biohazard 5."
+    },
+    {
+      "name": "PS5 Portal 30 Anniversary Edition",
+      "description": "Edición conmemorativa de Portal por su 30 aniversario."
+    },
+    {
+      "name": "ROG Ally X",
+      "description": "Dispositivo portátil gaming de alto rendimiento."
+    }
+  ],
+  "soundtracks": [
+    {
+      "title": "Silent Hill 2 Original Soundtrack",
+      "format": "CD / Digital",
+      "region": "Various"
+    },
+    {
+      "title": "Metroid Prime/Fusion Original Soundtrack",
+      "format": "CD",
+      "region": "Various"
+    },
+    {
+      "title": "Chrono Trigger Original Soundtrack",
+      "format": "CD",
+      "region": "Various"
+    },
+    {
+      "title": "Pokemon Red/Green Music Collection",
+      "format": "CD (4 discs)",
+      "region": "Various"
+    },
+    {
+      "title": "Evangelion Finally",
+      "format": "CD",
+      "region": "Various"
+    },
+    {
+      "title": "Dragon Quest",
+      "format": "CD (3 discs)",
+      "region": "Various"
+    },
+    {
+      "title": "NIeR:Automata Original Soundtrack",
+      "format": "CD / Digital",
+      "region": "Various"
+    },
+    {
+      "title": "The Legend of Zelda Breath of the Wild Original Soundtrack",
+      "format": "CD (5 discs)",
+      "region": "Various"
+    },
+    {
+      "title": "The Legend of Zelda 30th Anniversary Game Music Collection",
+      "format": "CD (2 discs)",
+      "region": "Various"
+    }
+  ],
+  "games": {
+    "3DS": [
+      { "title": "Mario & Luigi: Paper Jam", "region": "🇺🇸" },
+      { "title": "Metroid: Samus Returns", "region": "🇺🇸" },
+      { "title": "Mario Party: The Top 100", "region": "🇺🇸" },
+      { "title": "Pokémon Mystery Dungeon: Gates to Infinity", "region": "🇺🇸" },
+      { "title": "Luigi's Mansion 1", "region": "🇺🇸" },
+      { "title": "Shin Megami Tensei: Devil Survivor 2 Record Breaker", "region": "🇺🇸" },
+      { "title": "Shin Megami Tensei IV: Apocalypse", "region": "🇺🇸" },
+      { "title": "Shin megami Tensei IV", "region": "🇺🇸" },
+      { "title": "Shin Megami Tensei: Devil Summoner: Soul Hackers", "region": "🇺🇸" },
+      { "title": "Shin Megami Tensei: Devil Survivor Overclocked", "region": "🇺🇸" },
+      { "title": "River City: Tokyo Rumble", "region": "🇺🇸" }
+    ],
+    "WiiU": [
+      { "title": "The Legend of Zelda Twilight Princess", "region": "🇺🇸" }
+    ],
+    "PS5": [
+      { "title": "Dragon Ball Sparkling Zero", "region": "🇺🇸" },
+      { "title": "Silent Hill 2", "region": "🇺🇸" },
+      { "title": "Layers of Fear", "region": "🇺🇸" },
+      { "title": "Stellar Blade", "region": "🇺🇸" },
+      { "title": "Lies of Pi", "region": "🇺🇸" },
+      { "title": "Lollipop Chainsaw Re:pop", "region": "🇺🇸" },
+      { "title": "Indika", "region": "🇺🇸" },
+      { "title": "Touhou Spell Carnival", "region": "🇺🇸" },
+      { "title": "A Plague Tale Innocence", "region": "🇺🇸" },
+      { "title": "Astro Bot", "region": "🇺🇸" },
+      { "title": "Black Myth Wukong", "region": "🇺🇸" },
+      { "title": "Clock Tower Rewind", "region": "🇺🇸" },
+      { "title": "Pacific Drive Deluxe Edition", "region": "🇺🇸" },
+      { "title": "Devil May Cry 5 Special Edition", "region": "🇺🇸" },
+      { "title": "Raging Bytes", "region": "🇺🇸" },
+      { "title": "Witch Spring R", "region": "🇺🇸" },
+      { "title": "Dragon Quest III HD 2D Remake", "region": "🇺🇸" },
+      { "title": "The Bridge Curse 2", "region": "🇺🇸" },
+      { "title": "Stray", "region": "🇺🇸" },
+      { "title": "Shadow of the Dammend Remastered", "region": "🇺🇸" }
+    ],
+    "XBOX": [
+      { "title": "Dragon Ball Sparkling Zero", "region": "🇺🇸" },
+      { "title": "Cyberpunk", "region": "🇺🇸" },
+      { "title": "Tales of Symphonia Remastered", "region": "🇺🇸" },
+      { "title": "Clock Tower Rewind", "region": "🇺🇸" },
+      { "title": "The Dark Pictures Anthology: Man of Medan", "region": "🇺🇸" },
+      { "title": "The Dark Pictures: Little Hope", "region": "🇺🇸" },
+      { "title": "Dragon Quest III HD 2D Remake", "region": "🇪🇺" }
+    ],
+    "Switch": [
+      { "title": "Donkey Kong Country Returns HD", "region": "🇺🇸" },
+      { "title": "Ori The Collection", "region": "🇺🇸" },
+      { "title": "Dokapon Kingdom", "region": "🇺🇸" },
+      { "title": "Doki Doki Literature Club Plus!", "region": "🇺🇸" },
+      { "title": "Lollipop Chainsaw Re:pop", "region": "🇯🇵" },
+      { "title": "Lollipop Chainsaw Re:pop", "region": "🇺🇸" },
+      { "title": "Princess Peach: Showtime!", "region": "🇺🇸" },
+      { "title": "Ace Attorney Investigations Collection", "region": "🇺🇸" },
+      { "title": "Touhou Spell Carnival", "region": "🇺🇸" },
+      { "title": "Spinch", "region": "🇺🇸" },
+      { "title": "Doom Eternal", "region": "🇺🇸" },
+      { "title": "It Takes Two", "region": "🇪🇺" },
+      { "title": "Fitness Boxing 3", "region": "🇺🇸" },
+      { "title": "Clock Tower Rewind", "region": "🇺🇸" },
+      { "title": "Clock Tower Rewind", "region": "🇹🇼" },
+      { "title": "Cuphead", "region": "🇺🇸" },
+      { "title": "Black Bird", "region": "🇺🇸" },
+      { "title": "Stray Collector Edition", "region": "🇯🇵" },
+      { "title": "Stray", "region": "🇺🇸" },
+      { "title": "Lara Croft Collection Collector’s", "region": "🇺🇸" },
+      { "title": "Mario & Luigi Brothership", "region": "🇺🇸" },
+      { "title": "Deathsmiles 1-2", "region": "🇺🇸" },
+      { "title": "Kirby's Return to Dream Land Deluxe", "region": "🇺🇸" },
+      { "title": "Fairy Tail", "region": "🇺🇸" },
+      { "title": "River City: Three Kingdoms Next + Soundtrack", "region": "🇹🇼" },
+      { "title": "Yoshi's Crafted World", "region": "🇺🇸" },
+      { "title": "The Great Ace Attorney Chronicles", "region": "🇺🇸" },
+      { "title": "Assault Suits Valken: Declassified", "region": "🇺🇸" },
+      { "title": "Cult of the lamb", "region": "🇺🇸" },
+      { "title": "Metroid Prime Remastered", "region": "🇪🇺" },
+      { "title": "Turok 3", "region": "🇺🇸" },
+      { "title": "Mario Party Jamboree", "region": "🇺🇸" },
+      { "title": "Mario Party Jamboree + Nintendo Online 3 Meses", "region": "🇺🇸" },
+      { "title": "Valkyria Chronicles Remastered", "region": "🇺🇸" },
+      { "title": "The Bridge Curse 2", "region": "🇺🇸" },
+      { "title": "Astral Ascent", "region": "🇺🇸" },
+      { "title": "Astral Ascent Deluxe", "region": "🇺🇸" },
+      { "title": "Archetype Arcadia", "region": "🇺🇸" },
+      { "title": "SVC Chaos: SNK vs. Capcom", "region": "🇹🇼" },
+      { "title": "Blasphemus II Collector’s", "region": "🇺🇸" },
+      { "title": "Death of treat", "region": "🇺🇸" },
+      { "title": "Airoheart", "region": "🇺🇸" },
+      { "title": "Astronite", "region": "🇺🇸" },
+      { "title": "Witch Spring R", "region": "🇺🇸" },
+      { "title": "Star Wars Dark Forces", "region": "🇺🇸" },
+      { "title": "Virche Evermore 2", "region": "🇺🇸" },
+      { "title": "Dragon Quest III HD 2D Remake", "region": "🇪🇺" },
+      { "title": "Pokemon Mystery Dungeon rescue Team", "region": "🇪🇺" },
+      { "title": "LISA Definitive Edition", "region": "🇯🇵" },
+      { "title": "Xenoblade Chronicles 3", "region": "🇦🇺" },
+      { "title": "Livestream 2: Escape from Togaezuka", "region": "🇹🇼" },
+      { "title": "Fantasian Neo Dimension", "region": "🇹🇼" }
+    ],
+    "PS2": [
+      { "title": "Street Fighter Alpha Anthology", "region": "🇺🇸" },
+      { "title": "Dawn of Mana", "region": "🇺🇸" },
+      { "title": "Shin Megami Tensei Digital Devil Saga 2", "region": "🇺🇸" },
+      { "title": "Shin Megami Tensei Digital Devil Saga", "region": "🇺🇸" },
+      { "title": "Final Fantasy X-2", "region": "🇺🇸" },
+      { "title": "Final Fantasy XII", "region": "🇺🇸" },
+      { "title": "Breath of Fire V: Dragon Quarter", "region": "🇺🇸" },
+      { "title": "The king of fighters 2006", "region": "🇺🇸" }
+    ],
+    "PS3": [
+      { "title": "Resident Evil Revelations 2", "region": "🇺🇸" },
+      { "title": "Assassins Creed", "region": "🇺🇸" },
+      { "title": "Los Caballeros del Zodiaco: Soldados Valientes", "region": "🇺🇸" },
+      { "title": "Street Fighter Cross Tekken Special Edition", "region": "🇺🇸" }
+    ],
+    "PS4": [
+      { "title": "Crash Team Racing Nitro Fueled", "region": "🇪🇺" },
+      { "title": "Crash Bandicoot 4: It's About Time", "region": "🇺🇸" },
+      { "title": "Stray", "region": "🇺🇸" },
+      { "title": "Evil Dead The Game", "region": "🇺🇸" },
+      { "title": "Fox 'n' Forest", "region": "🇺🇸" },
+      { "title": "Ni No Kuni II Day One Edition", "region": "🇺🇸" },
+      { "title": "Ni No Kuni II Day One Edition Collector’s", "region": "🇺🇸" },
+      { "title": "Yakuza 6: The Song of Life - Premium Edition", "region": "🇺🇸" },
+      { "title": "Disc Room, Reserve numerada (5000)", "region": "🇺🇸" },
+      { "title": "It Takes Two", "region": "🇪🇺" },
+      { "title": "Turok 3", "region": "🇺🇸" },
+      { "title": "Onechanbara Chaos Banana Split Edition", "region": "🇺🇸" },
+      { "title": "Residen Evil 4 Collector’s Edition", "region": "🇺🇸" },
+      { "title": "Gravity Rush Remastered", "region": "🇺🇸" },
+      { "title": "Metal Slug 3 Collector’s", "region": "🇺🇸" },
+      { "title": "Metal Slug Anthology Collector’s", "region": "🇺🇸" },
+      { "title": "Metal Slug Double Slug Collector", "region": "🇺🇸" },
+      { "title": ".hack//G.U. Last Recode", "region": "🇺🇸" },
+      { "title": "The Last of US II Special Edition", "region": "🇺🇸" }
+    ],
+    "PSOne": [
+      { "title": "Final Fantasy IX", "region": "🇺🇸" }
+    ],
+    "PSVita": [
+      { "title": "Child of Light", "region": "🇺🇸" }
+    ],
+    "GB Advance": [
+      { "title": "F-Zero GP Legend", "region": "🇺🇸" }
+    ],
+    "NDS": [
+      { "title": "Dragon Ball Origins 2", "region": "🇺🇸" }
+    ],
+    "Wii": [
+      { "title": "Resident Evil Archives: Resident Evil Zero", "region": "🇺🇸" },
+      { "title": "Calling", "region": "🇺🇸" },
+      { "title": "Resident Evil Archives: Resident Evil", "region": "🇺🇸" }
+    ],
+    "XBOX 360": [
+      { "title": "Metal Gear Rising", "region": "🇺🇸" }
+    ]
+  }
+}
